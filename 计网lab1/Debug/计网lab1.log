@@ -1,0 +1,4 @@
+﻿  计网lab1.cpp
+c:\c_programing\计网lab1\计网lab1\计网lab1.cpp(61): warning C4101: “dwThreadID”: 未引用的局部变量
+c:\c_programing\计网lab1\计网lab1\计网lab1.cpp(131): warning C4101: “clientAddr”: 未引用的局部变量
+  计网lab1.vcxproj -> C:\c_programing\计网lab1\Debug\计网lab1.exe
